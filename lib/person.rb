@@ -8,10 +8,6 @@ class Person
     @name = "Beyonce"
   end
  
-end
-
-class Person
- 
   def job=(job)
     @job = job
   end
